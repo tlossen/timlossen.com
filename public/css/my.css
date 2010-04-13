@@ -1,0 +1,49 @@
+body {
+	background: #123;
+	color: #333;
+/*  font-family: Monaco, monospace;*/
+	font-family: "droid-serif-1","droid-serif-2",serif;
+	font-size: 20px;
+	padding: 0;
+}
+
+a {
+  color: #333;
+	text-decoration: none;
+}
+
+a.visible {
+  text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+.container_12 {
+	#background: #fff url(/img/12_col.gif) repeat-y;
+	background: #fff;
+	padding-bottom: 35px;
+}
+
+.right {
+  text-align: right;
+}
+
+.title {
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+
+.main {
+  margin-top: 40px;
+}
+
+.small {
+  font-size: 80%;
+} 
+
