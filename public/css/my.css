@@ -1,8 +1,7 @@
 body {
 	background: #123;
 	color: #333;
-/*  font-family: Monaco, monospace;*/
-	font-family: "droid-serif-1","droid-serif-2",serif;
+  font-family: Monaco, monospace;
 	font-size: 20px;
 	padding: 0;
 }
